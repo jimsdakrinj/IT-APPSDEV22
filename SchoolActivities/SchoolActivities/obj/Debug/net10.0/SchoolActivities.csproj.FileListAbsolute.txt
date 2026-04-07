@@ -1,0 +1,15 @@
+C:\Users\james\source\repos\SchoolActivities\SchoolActivities\bin\Debug\net10.0\SchoolActivities.exe
+C:\Users\james\source\repos\SchoolActivities\SchoolActivities\bin\Debug\net10.0\SchoolActivities.deps.json
+C:\Users\james\source\repos\SchoolActivities\SchoolActivities\bin\Debug\net10.0\SchoolActivities.runtimeconfig.json
+C:\Users\james\source\repos\SchoolActivities\SchoolActivities\bin\Debug\net10.0\SchoolActivities.dll
+C:\Users\james\source\repos\SchoolActivities\SchoolActivities\bin\Debug\net10.0\SchoolActivities.pdb
+C:\Users\james\source\repos\SchoolActivities\SchoolActivities\obj\Debug\net10.0\SchoolActivities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\source\repos\SchoolActivities\SchoolActivities\obj\Debug\net10.0\SchoolActivities.AssemblyInfoInputs.cache
+C:\Users\james\source\repos\SchoolActivities\SchoolActivities\obj\Debug\net10.0\SchoolActivities.AssemblyInfo.cs
+C:\Users\james\source\repos\SchoolActivities\SchoolActivities\obj\Debug\net10.0\SchoolActivities.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\SchoolActivities\SchoolActivities\obj\Debug\net10.0\SchoolActivities.dll
+C:\Users\james\source\repos\SchoolActivities\SchoolActivities\obj\Debug\net10.0\refint\SchoolActivities.dll
+C:\Users\james\source\repos\SchoolActivities\SchoolActivities\obj\Debug\net10.0\SchoolActivities.pdb
+C:\Users\james\source\repos\SchoolActivities\SchoolActivities\obj\Debug\net10.0\SchoolActivities.genruntimeconfig.cache
+C:\Users\james\source\repos\SchoolActivities\SchoolActivities\obj\Debug\net10.0\ref\SchoolActivities.dll
+C:\Users\james\source\repos\SchoolActivities\SchoolActivities\obj\Debug\net10.0\SchoolActivities.sourcelink.json
